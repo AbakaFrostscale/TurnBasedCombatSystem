@@ -87,7 +87,7 @@ This project uses only the C++ standard library.
 ```bash
 g++ TurnBasedCombat.cpp -std=c++17 -o TurnBasedCombat
 ./TurnBasedCombat
-
+```
 
 ---
 
