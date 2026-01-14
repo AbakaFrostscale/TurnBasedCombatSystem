@@ -100,18 +100,3 @@ game-systems
 engine-agnostic
 portfolio-project
 unreal-engine-style
-
-
----
-
-If you want, I can also:
-- Tighten this further for **AAA gameplay programmer applications**
-- Rewrite it for a **technical recruiter audience**
-- Add a **design commentary section**
-- Or help you split this into `.h/.cpp` for presentation polish
-
-Just say the word.
-
-
-
-
