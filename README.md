@@ -88,15 +88,3 @@ This project uses only the C++ standard library.
 g++ TurnBasedCombat.cpp -std=c++17 -o TurnBasedCombat
 ./TurnBasedCombat
 ```
-
----
-
-## Optional: GitHub Tags / Topics
-
-c++
-gameplay-programming
-turn-based-combat
-game-systems
-engine-agnostic
-portfolio-project
-unreal-engine-style
